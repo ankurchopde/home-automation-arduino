@@ -111,4 +111,4 @@ home-automation-arduino/
 
 ## 🏫 Associated With
 
-Vishwakarma Institute of Technology
+Vishwakarma Institute of Technology, Pune
